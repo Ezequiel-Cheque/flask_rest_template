@@ -10,3 +10,7 @@ marshmallow==3.21.1
 packaging==23.2
 webargs==8.4.0
 Werkzeug==3.0.1
+python-dotenv
+gevent
+flask-cors
+coloredlogs
